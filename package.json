@@ -28,7 +28,7 @@
     "html2canvas": "file:html2canvas",
     "http-errors": "^1.7.3",
     "js": "^0.1.0",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "mongoose": "^5.6.9",
     "morgan": "^1.9.1",
     "promise": "^8.0.3",
